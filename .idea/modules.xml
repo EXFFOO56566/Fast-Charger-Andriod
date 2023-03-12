@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OldFastChargerAdmob.iml" filepath="$PROJECT_DIR$/.idea/modules/OldFastChargerAdmob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OldFastChargerAdmob.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OldFastChargerAdmob.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraryMaskLayout/OldFastChargerAdmob.libraryMaskLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/libraryMaskLayout/OldFastChargerAdmob.libraryMaskLayout.iml" />
+    </modules>
+  </component>
+</project>
